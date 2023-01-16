@@ -4,4 +4,5 @@
     - Cluster Architecture
     - Pods
 
-> Check how many pods exist on the system.
+1. Check how many pods exist on the system.
+2. Create a new pod with the nginx image.
