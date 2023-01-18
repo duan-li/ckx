@@ -1,4 +1,4 @@
-# Check pods number
+# Basic pod opt
 
  - CKA
     - Cluster Architecture
