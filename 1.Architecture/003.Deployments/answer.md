@@ -1,0 +1,1 @@
+1. kubectl explain deployment | head -n1
