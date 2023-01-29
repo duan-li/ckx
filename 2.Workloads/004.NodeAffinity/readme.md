@@ -2,7 +2,7 @@
 
  - CKA
     - Workload and Scheduling
-    - Taints and Tolerations
+    - Node Affinity
 
 1. How many Labels exist on node node01?
 2. Apply a label `color=blue` to node `node01`
