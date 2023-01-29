@@ -1,6 +1,5 @@
 # Taints and Tolerations
 
-
  - CKA
     - Workload and Scheduling
     - Taints and Tolerations
