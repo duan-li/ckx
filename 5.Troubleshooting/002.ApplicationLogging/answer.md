@@ -1,0 +1,1 @@
+1. k logs pod-name
